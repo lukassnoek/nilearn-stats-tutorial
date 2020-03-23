@@ -1,5 +1,5 @@
-# nilearn-tutorial
-Beginner Nilearn tutorial.
+# nistats-tutorial
+Beginner Nistats tutorial.
 
 ## Getting started
 You can either run this tutorial on your own computer locally or online through binder.
@@ -14,11 +14,11 @@ pip install -r requirements.txt
 Then, you can start the notebook by running:
 
 ```
-jupyter notebook nilearn.ipynb
+jupyter notebook nistats.ipynb
 ```
 
 ### Run with binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukassnoek/nilearn-tutorial/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukassnoek/nistats-tutorial/master)
 
 ## Issues, questions, additions?
 If you encounter issues, have questions, or want to propose an addition/change/fix to this tutorial, please submit an issue (or better yet: a pull request) here on Github!
