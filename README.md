@@ -1,5 +1,5 @@
-# nistats-tutorial
-Beginner Nistats tutorial.
+# nilearn-stats-tutorial
+Beginner Nilearn tutorial for statistical analyses.
 
 ## Getting started
 You can either run this tutorial on your own computer locally or online through binder.
@@ -14,11 +14,11 @@ pip install -r requirements.txt
 Then, you can start the notebook by running:
 
 ```
-jupyter notebook nistats.ipynb
+jupyter notebook nilearn_stats.ipynb
 ```
 
 ### Run with binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukassnoek/nistats-tutorial/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukassnoek/nilearn-stats-tutorial/master)
 
 *Note*: it appears that Binder crashes when trying to fit the first-level model, presumably because it runs out of RAM. I'm currently looking for a solution.
 
